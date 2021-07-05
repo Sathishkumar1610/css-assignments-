@@ -1,0 +1,25 @@
+body {
+	background-color: grey;
+}
+
+.parent {
+	background-color:rgb(165, 238, 165);
+	
+.child1 {
+	background-color: green;
+	
+}
+
+.child2 {
+	background-color: yellow;
+	
+}
+
+.child3 {
+	background-color: orange;
+}
+
+#p3 {
+	color: rgb(226, 177, 43);
+	font-size: 20px;
+	font-family: sans-serif;
